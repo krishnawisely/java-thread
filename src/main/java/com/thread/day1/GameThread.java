@@ -1,4 +1,4 @@
-package com.thread;
+package com.thread.day1;
 
 public class GameThread extends Thread {
 	public void run() {

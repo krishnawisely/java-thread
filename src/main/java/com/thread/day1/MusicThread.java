@@ -1,4 +1,4 @@
-package com.thread;
+package com.thread.day1;
 
 public class MusicThread extends Thread {
 	public void run() {
